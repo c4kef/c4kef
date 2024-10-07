@@ -6,7 +6,6 @@ At the moment, the Myuri project supports registrations:
 - TikTok (Web)
 - Yandex
 - 1xBet
-- Discord (in developing...)
 - Yahoo
 
 You can discuss the minimum rental cost and other conditions with me in telegram: https://t.me/C4keF

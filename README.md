@@ -10,4 +10,4 @@ At the moment, the Myuri project supports registrations:
 
 You can discuss the minimum rental cost and other conditions with me in telegram: https://t.me/C4keF
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c4kef&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=c4kef&show_icons=true&count_private=true)

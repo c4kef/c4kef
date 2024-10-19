@@ -2,7 +2,7 @@
 #### Developer and creator of the project Myuri
 
 At the moment, the Myuri project supports registrations:
-- WhatsApp Android (Regular & Business) Updating...
+- WhatsApp Android (Regular & Business) Testing...
 - TikTok (Web)
 - Yandex
 - 1xBet

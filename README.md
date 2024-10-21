@@ -3,6 +3,7 @@
 
 At the moment, the Myuri project supports registrations:
 - WhatsApp Android (Regular & Business) Testing...
+- WhatsApp iOS (Regular) Testing...
 - TikTok (Web)
 - Yandex
 - 1xBet

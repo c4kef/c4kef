@@ -9,6 +9,7 @@ At the moment, the Myuri project supports registrations:
 - 1xBet (Work)
 - Yahoo (Work)
 
+Services:
 - Apple Push Notification Service (In Testing)
 - Play Integrity Emulation (Work with 2-checks)
 

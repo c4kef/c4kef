@@ -2,12 +2,15 @@
 #### Developer and creator of the project Myuri
 
 At the moment, the Myuri project supports registrations:
-- WhatsApp Android (Regular & Business) Testing...
-- WhatsApp iOS (Regular) Testing...
-- TikTok (Web)
-- Yandex
-- 1xBet
-- Yahoo
+- WhatsApp Android (Regular & Business) (Work)
+- WhatsApp iOS (Regular) (In Testing)
+- TikTok (Web) (Work)
+- Yandex (Work)
+- 1xBet (Work)
+- Yahoo (Work)
+
+- Apple Push Notification Service (In Testing)
+- Play Integrity Emulation (Work with 2-checks)
 
 Contact: https://t.me/C4keF
 

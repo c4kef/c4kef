@@ -5,7 +5,7 @@ At the moment, the Myuri project supports registrations:
 - WhatsApp Android (Regular & Business) (Work)
 - WhatsApp iOS (Regular) (In Testing)
 - TikTok (Web) (Work)
-- Yandex (Work)
+- Yandex (Work) (Problem with international phone nubmers)
 - 1xBet (Work)
 - Yahoo (Work)
 

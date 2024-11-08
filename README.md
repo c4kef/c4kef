@@ -11,7 +11,7 @@ At the moment, the Myuri project supports registrations:
 
 Services:
 - Apple Push Notification Service (In Testing)
-- Play Integrity Emulation (Work with MEETS_DEVICE_INTEGRITY)
+- Play Integrity Emulation (Passed MEETS_DEVICE_INTEGRITY)
 
 Contact: https://t.me/C4keF
 

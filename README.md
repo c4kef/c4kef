@@ -5,7 +5,7 @@ At the moment, the Myuri project supports registrations:
 - WhatsApp Android (Regular & Business) (Work with limit)
 - WhatsApp iOS (Regular) (In Testing)
 
-##INFO
+###INFO
 WhatsApp has severely restricted registrations even from real devices after the US elections. Wait for the hype to end.
 Current percent success rate: ~10-20% for some countries
 

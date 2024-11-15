@@ -2,7 +2,7 @@
 #### Developer and creator of the project Myuri
 
 At the moment, the Myuri project supports registrations:
-- WhatsApp Android (Regular & Business) (Work with limit)
+- WhatsApp Android (Regular & Business) (Work limit)
 - WhatsApp iOS (Regular) (In Testing)
 
 ### INFO

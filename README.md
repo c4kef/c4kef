@@ -1,4 +1,4 @@
-### C4ke here 👋
+### C4ke here! 👋
 #### Developer and creator of the project Myuri
 
 At the moment, the Myuri project supports registrations:

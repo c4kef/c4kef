@@ -3,7 +3,7 @@
 
 ### INFO
 WhatsApp has severely restricted registrations even from real devices after the US elections. Wait for the hype to end <3.
-Current percent success rate: ~10% for some countries
+Current percent success rate: ~10%
 
 Services:
 - Apple Push Notification Service (In Testing)

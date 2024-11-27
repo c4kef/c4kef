@@ -7,7 +7,7 @@ Current percent success rate: ~10%
 
 Services:
 - Apple Push Notification Service (In Testing)
-- Play Integrity Emulation (Passed MEETS_DEVICE_INTEGRITY for WhatsApp)
+- Play Integrity Emulation (In Testing)
 - Firebase push tokens
 - Registrations
 

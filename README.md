@@ -2,8 +2,8 @@
 #### Developer and creator of the project Myuri
 
 ### INFO
-WhatsApp has severely restricted registrations even from real devices after the US elections. Wait for the hype to end <3.
-Current percent success rate: ~10%
+In anticipation of the holidays, WhatsApp introduces major restrictions on account registration. We are waiting for the end of the holidays 🌲
+P.s. other services are working, in the testing the generation of Google tokens (PlayIntegrity). Push tokens from Apple no longer have value for WhatsApp iOS
 
 Services:
 - Apple Push Notification Service (In Testing)

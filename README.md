@@ -2,8 +2,7 @@
 #### Developer and creator of the project Myuri
 
 ### INFO
-In anticipation of the holidays, WhatsApp introduces major restrictions on account registration. We are waiting for the end of the holidays 🌲
-P.s. other services are working, in the testing the generation of Google tokens (PlayIntegrity). Push tokens from Apple no longer have value for WhatsApp iOS
+All systems are stable
 
 Services:
 - Apple Push Notification Service (In Testing)

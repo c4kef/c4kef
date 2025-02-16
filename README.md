@@ -1,5 +1,5 @@
 ### C4ke here! 👋
-#### Developer and creator of the project Myuri
+#### Developer and creator of the project "Myuri"
 
 ### INFO
 All systems are stable

@@ -11,5 +11,3 @@ Services:
 - Registrations
 
 Contact: https://t.me/C4keF
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c4kef&show_icons=true&count_private=true)

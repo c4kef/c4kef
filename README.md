@@ -5,9 +5,9 @@
 All systems are stable
 
 Services:
-- Apple Push Notification Service (In Testing)
-- Play Integrity Emulation
-- Firebase push tokens
-- Registrations
+- Apple Push Notification Service (WORK)
+- Play Integrity Emulation (WORK)
+- Firebase push tokens (WORK)
+- Registrations (WhatsApp is paused for update)
 
 Contact: https://t.me/C4keF

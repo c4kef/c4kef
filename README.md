@@ -6,7 +6,7 @@ All systems are stable
 
 Services:
 - Apple Push Notification Service (PAUSED)
-- Play Integrity Emulation (updating...)
+- Play Integrity Emulation (WORK)
 - Firebase push tokens (WORK)
 - Registrations (WORK)
 

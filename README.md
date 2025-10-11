@@ -9,5 +9,6 @@ Services:
 - Play Integrity Emulation (WORK)
 - Firebase push tokens (WORK)
 - Registrations (WORK)
+- ReCaptcha Solver (IN PROGRESS)
 
 Contact: https://t.me/C4keF

@@ -5,11 +5,12 @@
 All systems are stable
 
 Services:
-- Apple Push Notification Service (STOPED)
 - Play Integrity Emulation (WORK)
 - Firebase push tokens (WORK)
 - Registrations (WORK)
 - ReCaptcha Solver (WORK)
 - HCaptcha Solver (WORK)
+- GeeTest Solver (WORK)
+- Cloudflare Solver (WORK)
 
 Contact: https://t.me/C4keF
